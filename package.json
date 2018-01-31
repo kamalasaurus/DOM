@@ -1,0 +1,19 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "a mutative dom abstraction library",
+  "main": "DOM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamalasaurus/DOM.git"
+  },
+  "author": "kamalasaurus <kamalasaurus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamalasaurus/DOM/issues"
+  },
+  "homepage": "https://github.com/kamalasaurus/DOM#readme"
+}
